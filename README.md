@@ -2,7 +2,7 @@
 
 ## Who I am
 - I’m Cuong Le
-- 📫 cuongrep@gmail.com
+- 📫 cuonglvrepvn@gmail.com
 - 👀 Day by day, I’m looking at improving old things and contributing new ones.
 
 ## What I have done
@@ -15,7 +15,7 @@
 cuongrep/cuongrep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongrep&layout=compact&hide=html" alt="cuongrep" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanelv&layout=compact" alt="cuonglvrepvn@gmail.com" /></div>
 <br />
 <br />
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=cuongrep&show_icons=true" alt="cuongrep" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=cuongrep&show_icons=true&&count_private=true" alt="cuongrep" /></div>
