@@ -2,7 +2,7 @@
 
 ## Who I am
 - I’m Cuong Le
-- 📫 le.van.cuong@gridsolutions.com
+- 📫 le.van.cuong@gridsolutions.co.jp
 - 👀 Day by day, I’m looking at improving old things and contributing new ones.
 
 ## What I have done
