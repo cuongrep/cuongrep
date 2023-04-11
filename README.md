@@ -2,8 +2,10 @@
 
 ## Who I am
 - I’m Cuong Le
+- 👀 A funny guy who writes some meaningless word day by day to get the cost of living.
+
+## Contact
 - 📫 le.van.cuong@gridsolutions.co.jp
-- 👀 Day by day, I’m looking at improving old things and contributing new ones.
 
 ## What I have done
 - 🌱 I have just finished the Master Engineering in S.Korea
